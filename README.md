@@ -27,3 +27,4 @@ The vision of the Decentralized Freelance Payment System is to empower freelance
 - **Automated Invoicing**: Automatically generate and send invoices to clients upon job completion.
 
 ## Contract Details: 0xdF8f542ed524dD14a5d1cA6e5396D112C86288F1
+![Screenshot (5)](https://github.com/user-attachments/assets/51a7616a-7b23-47d3-9207-025bdc06fe16)
